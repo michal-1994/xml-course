@@ -1,0 +1,21 @@
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<class>
+    <student>
+        <firstname>Graham</firstname>
+        <lastname>Bell</lastname>
+        <nickname>grahambell19</nickname>
+        <age>24</age>
+    </student>
+    <student>
+        <firstname>Thomas</firstname>
+        <lastname>Ter</lastname>
+        <nickname>thomaster24</nickname>
+        <age>23</age>
+    </student>
+    <student>
+        <firstname>Anna</firstname>
+        <lastname>Ane</lastname>
+        <nickname>annaane2</nickname>
+        <age>22</age>
+    </student>
+</class>
